@@ -88,5 +88,5 @@ module_init(simple_char_driver_init);
 module_exit(simple_char_driver_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Elon Li");
 MODULE_DESCRIPTION("A simple character device driver");
